@@ -42,4 +42,4 @@
 #     scheduler.add_job(monthly, 'interval', months=1, name='monthly', jobstore='default')
 #     scheduler.add_job(yearly, 'interval', years=1, name='yearly', jobstore='default')
 #     scheduler.start()
-    print("Scheduler started...", file=sys.stdout)
+#     print("Scheduler started...", file=sys.stdout)
